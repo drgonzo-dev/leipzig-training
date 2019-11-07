@@ -2,5 +2,6 @@
 (2) Italiener
 ( ) Grieche
 ( ) Bratwurst
-( ) Chinese
-( ) Umaii
+( ) Asiate
+   ( ) Umaii
+   ( ) Chaka - oder so
