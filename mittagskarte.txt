@@ -3,6 +3,6 @@
 ( ) Grieche
 ( ) Bratwurst
 ( ) Chinese
-( ) Umaii
-( ) Zchaka
-( ) Ali Baba
+  ( ) Umaii
+  ( ) Zchaka
+  ( ) Ali Baba
