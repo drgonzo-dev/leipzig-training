@@ -1,6 +1,6 @@
 (*) Burger war schon
-( ) Italiener
+(1) Italiener
 ( ) Grieche
 ( ) Bratwurst
-
+( ) Chinese
 
